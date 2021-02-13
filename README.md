@@ -1,2 +1,4 @@
 # hello-world
-Just Another Repository
+Hi! Humans! 
+
+Luis here, I like to play games..
